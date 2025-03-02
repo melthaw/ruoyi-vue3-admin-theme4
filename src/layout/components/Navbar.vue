@@ -130,6 +130,8 @@ function toggleTheme() {
     cursor: pointer;
     transition: background 0.3s;
     -webkit-tap-highlight-color: transparent;
+    border-radius: 50%;
+    color: #666666;
 
     &:hover {
       background: rgba(0, 0, 0, 0.025);
