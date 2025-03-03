@@ -14,4 +14,6 @@
 
 重构后
 
+<img src="readme/after0.png" style="border: 1px solid #eeeeee;">
+
 <img src="readme/after1.png" style="border: 1px solid #eeeeee;">
